@@ -6,6 +6,23 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+.primary-color {
+	color: #4696e5;
+	font-weight: bold;
+}
+
+.red,.pink,.lightgreen,.green,.blue,.orange,.black {
+	font-weight: bold;
+}
+
+.red {color: red;}
+.pink {color: pink;}
+.lightgreen {color: greenyellow;}
+.green {color: green;}
+.blue {color: blue;}
+.orange {color: orange;}
+.black {color:black;}
+
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
@@ -340,6 +357,14 @@ input, select, textarea {
 	hr {
 		border-bottom-color: #e6e6e6;
 	}
+
+
+
+/* Chango Font */
+
+ .Sergi {
+	 font-family: 'Permanent Marker', cursive;
+ }
 
 /* Row */
 
