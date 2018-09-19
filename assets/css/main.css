@@ -11,6 +11,11 @@
 	font-weight: bold;
 }
 
+.number {
+	font-size: 1.5em;
+	font-weight: bold;
+}
+
 .red,.pink,.lightgreen,.green,.blue,.orange,.black {
 	font-weight: bold;
 }
@@ -24,13 +29,33 @@
 .black {color:black;}
 
 .skills {
-	width: 80%;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.aboutme {
+	max-width: 80%;
 	margin: 0 auto;
 }
-.skills span {
+
+.competencies {
+	max-width: 80%;
+	margin: 0 auto;
+}
+
+.competencies span {
 	margin: 5px 2px;
 padding-left: 8px;
 padding-right: 8px;
+}
+
+.skill .info {
+	padding:0 25px;
+	margin: 0 15px;
+}
+
+.skill {
+	max-width: 80%;
 }
 
 .special li {
