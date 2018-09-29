@@ -33,6 +33,11 @@
 	text-align: center;
 }
 
+.info {
+	max-width: 70%;
+	margin: 0 auto;
+}
+
 .aboutme {
 	max-width: 80%;
 	margin: 0 auto;
@@ -44,9 +49,9 @@
 }
 
 .competencies span {
-	margin: 5px 2px;
-padding-left: 8px;
-padding-right: 8px;
+	margin: 5px 1px;
+	padding-left: 8px;
+	padding-right: 8px;
 }
 
 .skill .info {
